@@ -2,7 +2,7 @@
 <div>
   <a href="https://www.linkedin.com/in/portelagustavo/">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MoriahTw&show_icons=true&theme=graywhite&hide_rank=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriahTw&hide_progress=true">
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriahTw&hide_progress=true">
 </div>
 
 <div style="display: inline_block"><br>
